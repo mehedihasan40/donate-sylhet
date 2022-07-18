@@ -91,3 +91,10 @@ h4 {
     background-color: #FFE6E8;
     border: 2px solid red;
 }
+
+.others {
+    text-align: center;
+    margin-bottom: 20%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid gray;
+}
