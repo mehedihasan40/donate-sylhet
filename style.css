@@ -37,22 +37,12 @@ h4 {
     width: 100%;
     padding: 10px;
 
-
-
-
-
-
-
 }
 
 #donate-image {
     background-image: url(donate-today-main/images/donation5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-
-
-
-
 
 }
 
@@ -67,4 +57,37 @@ h4 {
     background-color: #FA8072;
     padding: 15px 32px;
     color: white;
+}
+
+.money {
+
+    padding: 5%;
+    display: flex;
+    height: 100px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 20%;
+    font-size: 24%;
+
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    margin: 0px 20px;
+    font-weight: 700;
+
+
+
+}
+
+.item-color {
+    color: #d03d11;
+
+
+}
+
+.b-back {
+    background-color: #FFE6E8;
+    border: 2px solid red;
 }
