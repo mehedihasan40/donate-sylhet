@@ -135,3 +135,49 @@ h4 {
 .back-cthree {
     background-color: #FAF0DD;
 }
+
+.donation-image {
+    display: flex;
+    width: 50;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.donation-update {
+
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+
+}
+
+input {
+    width: 30%;
+    margin-left: 35%;
+    padding: 0.50%;
+    margin-bottom: 10%;
+}
+
+button {
+    background-color: #F75D59;
+
+}
+
+footer {
+    text-align: center;
+    width: 50;
+    height: 100%;
+    background-color: black;
+
+}
+
+#foot-big {
+    color: #d03d11;
+}
+
+#foot-small {
+    color: white;
+}
